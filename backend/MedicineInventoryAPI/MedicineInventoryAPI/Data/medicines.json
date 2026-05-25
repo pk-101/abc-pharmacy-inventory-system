@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Take after food",
+    "ExpiryDate": "2026-01-10T00:00:00",
+    "Quantity": 18,
+    "Price": 49.99,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 2,
+    "FullName": "Astrovastatin",
+    "Notes": "",
+    "ExpiryDate": "2026-06-10T00:00:00",
+    "Quantity": 28,
+    "Price": 100,
+    "Brand": "XYZ Pharma"
+  },
+  {
+    "Id": 3,
+    "FullName": "Parafin",
+    "Notes": "",
+    "ExpiryDate": "2026-07-30T00:00:00",
+    "Quantity": 9,
+    "Price": 100.5,
+    "Brand": "Z2 Pharma"
+  },
+  {
+    "Id": 4,
+    "FullName": "Asprin",
+    "Notes": "",
+    "ExpiryDate": "2026-07-29T00:00:00",
+    "Quantity": 100,
+    "Price": 25,
+    "Brand": "ZX Pharma"
+  }
+]

@@ -1,0 +1,17 @@
+# Node modules
+frontend/node_modules
+
+# Build folders
+frontend/dist
+backend/**/bin
+backend/**/obj
+
+# Visual Studio
+.vs
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
